@@ -1,0 +1,79 @@
+.main{
+    width: 100%;
+    height: 700px;
+    background-color: blue;
+}
+.nav{
+    width: 100%;
+    height: 70px;
+    background-color: brown;
+}
+.box{
+    width: 100%;
+    height: 250px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.sub{
+    width: 150px;
+    height: 150px;
+}
+.one{
+    background-color: red;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: bisque;
+}
+.four{
+    background-color: blueviolet;
+}
+.five{
+    background-color: chartreuse;
+}
+.box-1{
+    width:100%;
+    height:200px;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box-2{
+    width:50%;
+    background-color: beige;
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.sub1{
+    width:100px;
+    height:50px ;
+}
+.six{
+    background-color: aqua;
+}
+.seven{
+    background-color: aqua;
+}
+.eight{
+    background-color: aqua;
+}
+.box-3{
+    width:50%;
+    height:100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ok{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+}

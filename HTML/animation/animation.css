@@ -1,0 +1,17 @@
+.main{
+    width: 100px;
+    height: 100px;
+    background-color: #652727;
+    position: relative;
+    animation-name: hepzijack;
+    animation-duration: 10s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes hepzijack{
+    0%{background-color: aquamarine;left: 0%;top: 0px;}
+    25%{ background-color: blueviolet;left: 25%;top: 300px;}
+    50%{ background-color: cadetblue;left: 50%;top:0px;}
+    75%{background-color: cornflowerblue;left: 75%;top: 300px;}
+    100%{background-color: cyan;left: 100%;top: 0px;}
+}
